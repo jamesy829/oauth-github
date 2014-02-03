@@ -6,6 +6,12 @@ gem 'rails', '4.0.0'
 # Add Github OAuth
 gem 'omniauth-github'
 
+gem 'haml'
+gem 'haml-rails'
+
+# Use to setup config file
+gem 'figaro'
+
 # Use postgresql as the database for Active Record
 gem 'pg'
 
